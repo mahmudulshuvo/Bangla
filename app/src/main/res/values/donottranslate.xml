@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <!-- Miwok translation for color red -->
+    <string name="bangla_color_red">লাল</string>
+
+    <!-- Miwok translation for color dusty yellow -->
+    <string name="bangla_color_dusty_yellow">ধূলিমলিন হলুদ</string>
+
+    <!-- Miwok translation for color mustard yellow -->
+    <string name="bangla_color_mustard_yellow">সরিষা হলুদ</string>
+
+    <!-- Miwok translation for color green -->
+    <string name="bangla_color_green">সবুজ</string>
+
+    <!-- Miwok translation for color brown -->
+    <string name="bangla_color_brown">খয়েরি</string>
+
+    <!-- Miwok translation for color black -->
+    <string name="bangla_color_black">কালো</string>
+
+    <!-- Miwok translation for color gray -->
+    <string name="bangla_color_gray">ধূসর</string>
+
+    <!-- Miwok translation for color white -->
+    <string name="bangla_color_white">সাদা</string>
+
+    <!-- Miwok translation for father -->
+    <string name="bangla_family_father">বাবা</string>
+
+    <!-- Miwok translation for mother -->
+    <string name="bangla_family_mother">মা</string>
+
+    <!-- Miwok translation for son -->
+    <string name="bangla_family_son">ছেলে</string>
+
+    <!-- Miwok translation for daughter -->
+    <string name="bangla_family_daughter">মেয়ে</string>
+
+    <!-- Miwok translation for older brother -->
+    <string name="bangla_family_older_brother">বড় ভাই</string>
+
+    <!-- Miwok translation for younger brother -->
+    <string name="bangla_family_younger_brother">ছোট ভাই</string>
+
+    <!-- Miwok translation for older sister -->
+    <string name="bangla_family_older_sister">বড় বোন</string>
+
+    <!-- Miwok translation for younger sister -->
+    <string name="bangla_family_younger_sister">ছোট বোন</string>
+
+    <!-- Miwok translation for grandmother -->
+    <string name="bangla_family_grandmother">দাদি</string>
+
+    <!-- Miwok translation for grandfather -->
+    <string name="bangla_family_grandfather">দাদা</string>
+
+    <!-- Miwok translation for number one -->
+    <string name="bangla_number_one">এক</string>
+
+    <!-- Miwok translation for number two -->
+    <string name="bangla_number_two">দুই</string>
+
+    <!-- Miwok translation for number three -->
+    <string name="bangla_number_three">তিন</string>
+
+    <!-- Miwok translation for number four -->
+    <string name="bangla_number_four">চার</string>
+
+    <!-- Miwok translation for number five -->
+    <string name="bangla_number_five">পাঁচ</string>
+
+    <!-- Miwok translation for number six -->
+    <string name="bangla_number_six">ছয়</string>
+
+    <!-- Miwok translation for number seven -->
+    <string name="bangla_number_seven">সাত</string>
+
+    <!-- Miwok translation for number eight -->
+    <string name="bangla_number_eight">আট</string>
+
+    <!-- Miwok translation for number nine -->
+    <string name="bangla_number_nine">নয়</string>
+
+    <!-- Miwok translation for number ten -->
+    <string name="bangla_number_ten">দশ</string>
+
+    <!-- Miwok translation for phrase "Where are you going?" -->
+    <string name="bangla_phrase_where_are_you_going">আপনি কোথায় যাচ্ছেন?</string>
+
+    <!-- Miwok translation for phrase "What is your name?" -->
+    <string name="bangla_phrase_what_is_your_name">আপনার নাম কি?</string>
+
+    <!-- Miwok translation for phrase "My name is..." -->
+    <string name="bangla_phrase_my_name_is">আমার নাম</string>
+
+    <!-- Miwok translation for phrase "How are you feeling?" -->
+    <string name="bangla_phrase_how_are_you_feeling">তোমার কেমন লাগছে?</string>
+
+    <!-- Miwok translation for phrase "I'm feeling good." -->
+    <string name="bangla_phrase_im_feeling_good">আমি ভাল বোধ করছি</string>
+
+    <!-- Miwok translation for phrase "Are you coming?" -->
+    <string name="bangla_phrase_are_you_coming">তুমি কি আসছ?</string>
+
+    <!-- Miwok translation for phrase "Yes, I'm coming." -->
+    <string name="bangla_phrase_yes_im_coming">হ্যাঁ, আমি আসছি</string>
+
+    <!-- Miwok translation for phrase "I'm coming." -->
+    <string name="bangla_phrase_im_coming">আমি আসছি</string>
+
+    <!-- Miwok translation for phrase "Let's go." -->
+    <string name="bangla_phrase_lets_go">চলো যাই</string>
+
+    <!-- Miwok translation for phrase "Come here." -->
+    <string name="bangla_phrase_come_here">এখানে এসো</string>
+</resources>
